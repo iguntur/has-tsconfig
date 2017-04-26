@@ -1,6 +1,6 @@
 {
   "name": "has-tsconfig",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Indicate the project has &#39;tsconfig.json&#39; file.",
   "license": "MIT",
   "repository": "iguntur/has-tsconfig",
