@@ -1,0 +1,34 @@
+{
+  "name": "has-tsconfig",
+  "version": "0.0.0",
+  "description": "Indicate the project has &#39;tsconfig.json&#39; file.",
+  "license": "MIT",
+  "repository": "iguntur/has-tsconfig",
+  "author": {
+    "name": "Guntur Poetra",
+    "email": "poetra.guntur@gmail.com",
+    "url": "http://iguntur.starmediateknik.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "tsconfig",
+    "typescript",
+    "ts",
+    "project"
+  ],
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  },
+  "xo": {
+    "esnext": true
+  }
+}
